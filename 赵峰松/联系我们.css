@@ -1,0 +1,154 @@
+*{
+	margin:0;
+	padding: 0;
+}
+.clear:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.top1{
+    background: #000;
+	
+}
+.top1 li{
+	list-style: none;
+}
+.top1 a{
+	text-decoration: none;
+	color: #9c8e8e;
+}
+.top11,.top12,.top13,.top14,.top15,.top16,.top17,.top18
+,.top19,.top110,.top111,.top112{
+	float: left;
+	font-family: "Microsoft yahei";
+    font-size: 14px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.top2{
+	opacity: 1;
+	background: url(5.png);
+}
+.top2l{
+	float: left;
+	width: 1200px;
+}
+.top22{
+	float: left;
+	background: url(4.png);
+	margin-left: 680px;
+	width: 58px;
+	height: 10px;
+}
+.center{
+	width: 1350px;
+	height: 750px;
+	background: url(45.png);
+
+}
+.center1{
+	float: left;
+	width: 800px;
+	height: 240px;
+	margin-left: 50px;
+	margin-top: -15px;
+}
+.center11{
+	float: left;
+	margin-top: 90px;
+	margin-left: 420px;
+}
+.center12{
+	float: left;
+	margin-top: 10px;
+	margin-left: 400px;
+}
+.center12t{
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.center13{
+	float: left;
+}
+.center13 a{
+	text-decoration: none;
+}
+.center131{
+	float: left;
+	margin-top: 16px;
+	margin-left: 20px;
+}
+.center132{
+	float: left;
+	margin-top: 10px;
+	margin-left: 5px;
+}
+.center14{
+	float: left;
+}
+.center14 a{
+	text-decoration: none;
+}
+.center141{
+	float: left;
+	margin-top: -15px;
+	margin-left: 263px;
+}
+.center142{
+	float: left;
+	margin-top: -18px;
+	margin-left: 5px;
+}
+.center15{
+	float: left;
+}
+.center15 a{
+	text-decoration: none;
+}
+.center151{
+	float: left;
+	margin-top: 24px;
+	margin-left: 20px;
+}
+.center152{
+	float: left;
+	margin-top: 23px;
+	margin-left: 5px;
+}
+.center16 a{
+	text-decoration: none;
+}
+.center161{
+	float: left;
+	margin-top: 24px;
+	margin-left: 26px;
+}
+.center162{
+	float: left;
+	margin-top: 23px;
+	margin-left: 5px;
+}
+.center17{
+	float: left;
+	margin-top: 30px;
+	margin-left: 42px;
+}
+.bottom a{
+	text-decoration: none;
+}
+.bottoml1,.bottoml2,.bottoml3,.bottoml4,.bottoml5{
+	float: left;
+	margin-left: 10px;
+	list-style: none;
+}
+.bottomr{
+	float: left;
+	width: 1000px;
+	height: 20px;
+	margin-left: 340px;
+	margin-top: -20px;
+	
+	
+}
